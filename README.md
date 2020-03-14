@@ -6,3 +6,5 @@ tu thù -> thu 4
 NOTE for branch 1
 
 commit 5
+
+commit 6
